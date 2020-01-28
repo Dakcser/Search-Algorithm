@@ -1,7 +1,6 @@
 README -ohje ohjelman ajamiseen-
 
-Nimi:       Opiskelija nro.     sähköposti:
-Emil Dark   2564926             edark18@student.oulu.file
+
 
 Ohjelman toimiaksi oikein testidata tiedoston sekä itse ohjelma 
 tiedostot (main.py ja weightedgraph.py) täytyy olla samassa 
